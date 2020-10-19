@@ -12,11 +12,29 @@
 }
 
 .col-md-2 {
-    margin-left: 35px;
+    margin-left: 38px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
 .h6 {
     margin-left: 35px;
+}
+
+.fab {
+    color: black;
+    width: 20px;
+    height: 10px;
+    font-size: 15px;
+}
+
+.p-1 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.foooter-img {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
