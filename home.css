@@ -2,6 +2,21 @@
     width: 50px;
 }
 
-.row {
-    text-align: center;
+.container {
+    display: flex;
+    flex-basis: 100%;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 11px;
+}
+
+.col-md-2 {
+    margin-left: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.h6 {
+    margin-left: 35px;
 }
