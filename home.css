@@ -1,5 +1,7 @@
 .logo {
     width: 50px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .container {
@@ -55,4 +57,5 @@
 
 .Top-ul {
     margin-left: 120px;
+    margin-top: 10px;
 }
