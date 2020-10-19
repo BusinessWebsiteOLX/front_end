@@ -38,3 +38,7 @@
     flex-direction: row;
     flex-wrap: wrap;
 }
+
+.top-image {
+    margin-left: 250px;
+}
