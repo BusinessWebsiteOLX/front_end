@@ -12,9 +12,14 @@
 }
 
 .col-md-2 {
-    margin-left: 38px;
-    margin-top: 20px;
+    margin-left: 12px;
+    margin-right: 26px;
+    margin-top: 15px;
     margin-bottom: 20px;
+}
+
+.ul :hover {
+    color: black;
 }
 
 .h6 {
